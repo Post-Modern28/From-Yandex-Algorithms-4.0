@@ -1,3 +1,5 @@
+# This program implements partitioning of an array
+
 n = int(input())
 arr = list(map(int, input().split()))
 x = int(input())
